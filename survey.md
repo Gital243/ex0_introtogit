@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color:Pink 
+Favorite food: Milkshake
+Favorite musician/band:ABBA 
+Favorite movie: LOTR
+Requested grade in the course: 100
